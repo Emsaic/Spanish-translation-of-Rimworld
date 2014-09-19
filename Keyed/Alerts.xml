@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Clica para ir al problema</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Click aquí para ir al problema</ClickToJumpToProblem>
 	
 	
   <AlertNeedStockpile>Se necesita una zona de reservas</AlertNeedStockpile>
-  <AlertNeedStockpileDesc>Tus colonos necesitan un lugar donde almacenar los objetos. Designa unas RESERVAS para ello.\n\nEncontrarás las reservas en la sección ZONAS del menú ARQUITECTO en la esquina inferior izquierda.</AlertNeedStockpileDesc>
+  <AlertNeedStockpileDesc>Tus colonos necesitan un lugar donde almacenar los objetos. Designa una zona de  RESERVAS para ello.\n\nEncontrarás las reservas en la sección ZONAS del menú ARQUITECTO en la esquina inferior izquierda.</AlertNeedStockpileDesc>
 
   <AlertUnforbidStartingResources>Permitir recursos</AlertUnforbidStartingResources>
   <AlertUnforbidStartingResourcesDesc>Los recursos iniciales del mapa están PROHIBIDOS.\n\nPara que los colonos los recojan, debes PERMITIRLOS seleccionándolos y presionando el comando PERMITIR situado en el borde inferior de la pantalla.</AlertUnforbidStartingResourcesDesc>
@@ -14,7 +14,7 @@
   <AlertEquipStartingWeaponsDesc>Tus colonos llegaron con algunas armas. ¡Equípalas!\n\nSelecciona a cada colono y haz clic derecho en el arma a equipar.</AlertEquipStartingWeaponsDesc>
   
   <NeedSawmill>Se necesita un aserradero</NeedSawmill>
-  <NeedSawmillDesc>Necesitaréis algun tipo de aserradero para cortar los leños en unas más versátiles tablas de madera.\n\nConstruye un ASERRADERO MANUAL o un ASERRADERO ELÉCTRICO.</NeedSawmillDesc>
+  <NeedSawmillDesc>Necesitaras algun tipo de aserradero para cortar los leños en  tablas de madera.\n\nConstruye un ASERRADERO MANUAL o un ASERRADERO ELÉCTRICO.</NeedSawmillDesc>
 
   <EquipStartingEquipment>Recoge el equipo</EquipStartingEquipment>
   <EquipStartingEquipmentDesc>Aterrizásteis con algunas armas. Recógelas del punto de aterrizaje.\n\nPara equipar algo, selecciona a un colono y haz clic derecho en el objeto que deseas equipar.</EquipStartingEquipmentDesc>
